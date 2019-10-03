@@ -30,6 +30,8 @@ ul {
 	line-height: 30px;
 	color: white;
 	font-weight: bold;
+	width: 150px;
+	margin: 0 auto;
 }
 
 li[title] {
